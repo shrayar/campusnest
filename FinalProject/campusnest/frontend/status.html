@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Applications – CampusNest</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f9ff;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    .status-section {
+      margin-bottom: 40px;
+    }
+    .status-section h2 {
+      color: #34495e;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .listing {
+      background: white;
+      margin: 15px 0;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+      border-left: 5px solid #3498db;
+    }
+    .listing h3 {
+      margin-top: 0;
+    }
+    .listing p {
+      margin: 5px 0;
+    }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 20px;
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .back-link:hover {
+      text-decoration: underline;
+    }
+    .empty-msg {
+      color: #777;
+      font-style: italic;
+      margin: 10px 0 30px;
+    }
+  </style>
+</head>
+<body>
+  <a href="index.html" class="back-link">← Back to Listings</a>
+  <h1>My Application Statuses</h1>
+  <div id="statusContainer">Loading...</div>
+
+  <script>
+    const statusLabels = ["Interested", "Applied", "Scheduled Tour", "Leased", "Rejected"];
+
+    async function loadStatusPage() {
+      const res = await fetch("/api/listings");
+      const listings = await res.json();
+
+      const statuses = JSON.parse(localStorage.getItem("statuses") || "{}");
+
+      const container = document.getElementById("statusContainer");
+      container.innerHTML = "";
+
+      statusLabels.forEach(label => {
+        const filtered = listings.filter(l => statuses[l.id] === label);
+        const section = document.createElement("div");
+        section.className = "status-section";
+
+        section.innerHTML = `<h2>${label}</h2>`;
+
+        if (filtered.length === 0) {
+          section.innerHTML += `<p class="empty-msg">No listings marked as "${label}".</p>`;
+        } else {
+          filtered.forEach(listing => {
+            const div = document.createElement("div");
+            div.className = "listing";
+            div.innerHTML = `
+              <h3>${listing.title}</h3>
+              <p><strong>Rent:</strong> $${listing.rent}</p>
+              <p><strong>Room Type:</strong> ${listing.roomType}</p>
+              <p><strong>Distance:</strong> ${listing.distance} miles</p>
+              <p><strong>Address:</strong> ${listing.address}</p>
+              <p><strong>Status:</strong> ${label}</p>
+            `;
+            section.appendChild(div);
+          });
+        }
+
+        container.appendChild(section);
+      });
+    }
+
+    window.onload = loadStatusPage;
+  </script>
+</body>
+</html>
