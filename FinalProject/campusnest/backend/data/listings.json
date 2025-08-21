@@ -1,0 +1,4282 @@
+[
+  {
+    "id": 1,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 837,
+    "roomType": "Shared",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "95502 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 81",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1165,
+    "roomType": "Shared",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "4814 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 76",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1168,
+    "roomType": "Shared",
+    "distance": 0.4,
+    "location": "Cal Poly Pomona",
+    "address": "50805 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 32",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1394,
+    "roomType": "Private",
+    "distance": 0.9,
+    "location": "Cal Poly Pomona",
+    "address": "20290 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 30",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1160,
+    "roomType": "Shared",
+    "distance": 3.0,
+    "location": "Cal Poly Pomona",
+    "address": "615 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Gym",
+      "Laundry",
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 95",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 7",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 858,
+    "roomType": "Private",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "816 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "AC",
+      "Gym",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 62",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 12",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 37",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1441,
+    "roomType": "Private",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "5900 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry",
+      "AC",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 64",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 50",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1322,
+    "roomType": "Shared",
+    "distance": 2.3,
+    "location": "Cal Poly Pomona",
+    "address": "029 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "AC",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 79",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 50",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1497,
+    "roomType": "Shared",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "19516 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "WiFi",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 44",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1054,
+    "roomType": "Studio",
+    "distance": 2.1,
+    "location": "Cal Poly Pomona",
+    "address": "83488 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Furnished",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 38",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 865,
+    "roomType": "Private",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "6319 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Gym",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 68",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 30",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 47",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 883,
+    "roomType": "Shared",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "47711 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Furnished",
+      "Pet Friendly",
+      "Gym",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 58",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 35",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1337,
+    "roomType": "Private",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "521 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 73",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1173,
+    "roomType": "Shared",
+    "distance": 0.4,
+    "location": "Cal Poly Pomona",
+    "address": "71504 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 81",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1583,
+    "roomType": "Shared",
+    "distance": 2.4,
+    "location": "Cal Poly Pomona",
+    "address": "0831 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 53",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 29",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1211,
+    "roomType": "Private",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "809 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 14",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 45",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1559,
+    "roomType": "Private",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "40776 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Laundry",
+      "Parking",
+      "AC",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 73",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 719,
+    "roomType": "Private",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "3509 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 89",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1334,
+    "roomType": "Shared",
+    "distance": 2.9,
+    "location": "Cal Poly Pomona",
+    "address": "02955 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 87",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 8",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 25",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 884,
+    "roomType": "Private",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "14141 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Pet Friendly",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 33",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 87",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1033,
+    "roomType": "Studio",
+    "distance": 1.4,
+    "location": "Cal Poly Pomona",
+    "address": "52990 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Pet Friendly",
+      "Furnished",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 57",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 81",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 71",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1407,
+    "roomType": "Private",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "4673 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 48",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 945,
+    "roomType": "Shared",
+    "distance": 0.4,
+    "location": "Cal Poly Pomona",
+    "address": "301 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 94",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1185,
+    "roomType": "Studio",
+    "distance": 2.6,
+    "location": "Cal Poly Pomona",
+    "address": "911 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 42",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 810,
+    "roomType": "Studio",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "8901 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 4",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 96",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1546,
+    "roomType": "Shared",
+    "distance": 2.3,
+    "location": "Cal Poly Pomona",
+    "address": "313 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 23",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1036,
+    "roomType": "Studio",
+    "distance": 2.9,
+    "location": "Cal Poly Pomona",
+    "address": "622 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Parking",
+      "AC",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 77",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1279,
+    "roomType": "Shared",
+    "distance": 2.9,
+    "location": "Cal Poly Pomona",
+    "address": "5737 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Parking",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 97",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 19",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 97",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1271,
+    "roomType": "Shared",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "0616 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Furnished",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 62",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 2",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 77",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1249,
+    "roomType": "Private",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "24561 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Gym",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 25",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 761,
+    "roomType": "Private",
+    "distance": 0.3,
+    "location": "Cal Poly Pomona",
+    "address": "868 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "WiFi",
+      "Pet Friendly",
+      "Furnished",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 25",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 66",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 79",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1426,
+    "roomType": "Private",
+    "distance": 2.6,
+    "location": "Cal Poly Pomona",
+    "address": "11597 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 89",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 50",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 23",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1359,
+    "roomType": "Shared",
+    "distance": 0.4,
+    "location": "Cal Poly Pomona",
+    "address": "6262 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "AC",
+      "Parking",
+      "Furnished",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 50",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 43",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1576,
+    "roomType": "Studio",
+    "distance": 2.8,
+    "location": "Cal Poly Pomona",
+    "address": "507 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Pet Friendly",
+      "Parking",
+      "WiFi",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 83",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 77",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 82",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 755,
+    "roomType": "Studio",
+    "distance": 0.4,
+    "location": "Cal Poly Pomona",
+    "address": "2120 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "Gym",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 58",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 44",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 799,
+    "roomType": "Studio",
+    "distance": 1.2,
+    "location": "Cal Poly Pomona",
+    "address": "8259 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 38",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 779,
+    "roomType": "Shared",
+    "distance": 2.1,
+    "location": "Cal Poly Pomona",
+    "address": "5684 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 72",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1257,
+    "roomType": "Shared",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "985 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 16",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 5",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 975,
+    "roomType": "Private",
+    "distance": 3.0,
+    "location": "Cal Poly Pomona",
+    "address": "201 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "Gym",
+      "Pet Friendly",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 33",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 93",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1492,
+    "roomType": "Shared",
+    "distance": 1.3,
+    "location": "Cal Poly Pomona",
+    "address": "9897 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 70",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 20",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 13",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 789,
+    "roomType": "Studio",
+    "distance": 2.6,
+    "location": "Cal Poly Pomona",
+    "address": "345 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "AC",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 22",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1088,
+    "roomType": "Studio",
+    "distance": 2.9,
+    "location": "Cal Poly Pomona",
+    "address": "10562 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 37",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 30",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 38",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1066,
+    "roomType": "Shared",
+    "distance": 1.3,
+    "location": "Cal Poly Pomona",
+    "address": "07960 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "WiFi",
+      "AC",
+      "Gym",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 87",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 33",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 2",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1461,
+    "roomType": "Studio",
+    "distance": 3.0,
+    "location": "Cal Poly Pomona",
+    "address": "5063 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 72",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 9",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 85",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1057,
+    "roomType": "Studio",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "374 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Laundry",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 66",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 3",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 67",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1220,
+    "roomType": "Private",
+    "distance": 2.8,
+    "location": "Cal Poly Pomona",
+    "address": "8341 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Parking",
+      "Pet Friendly",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 23",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 6",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1576,
+    "roomType": "Studio",
+    "distance": 0.5,
+    "location": "Cal Poly Pomona",
+    "address": "2980 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Furnished",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 28",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 98",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 71",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 908,
+    "roomType": "Studio",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "15308 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 38",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 19",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 51",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 990,
+    "roomType": "Private",
+    "distance": 2.4,
+    "location": "Cal Poly Pomona",
+    "address": "3821 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "WiFi",
+      "Parking",
+      "Furnished",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 44",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 83",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 26",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 768,
+    "roomType": "Shared",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "5704 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "AC",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 83",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1085,
+    "roomType": "Private",
+    "distance": 2.1,
+    "location": "Cal Poly Pomona",
+    "address": "80990 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 99",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 7",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1532,
+    "roomType": "Private",
+    "distance": 0.3,
+    "location": "Cal Poly Pomona",
+    "address": "818 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "AC",
+      "Parking",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 72",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 84",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1521,
+    "roomType": "Private",
+    "distance": 1.9,
+    "location": "Cal Poly Pomona",
+    "address": "4439 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Laundry",
+      "AC",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 44",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1423,
+    "roomType": "Private",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "51812 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 34",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 78",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 29",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1198,
+    "roomType": "Shared",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "33270 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Gym",
+      "Furnished",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 20",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 716,
+    "roomType": "Studio",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "7175 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "AC",
+      "Gym",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 1",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 40",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 69",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1197,
+    "roomType": "Studio",
+    "distance": 0.3,
+    "location": "Cal Poly Pomona",
+    "address": "6502 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 16",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 86",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1254,
+    "roomType": "Studio",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "2742 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 87",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 97",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 989,
+    "roomType": "Private",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "6907 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Furnished",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 82",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 6",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1537,
+    "roomType": "Private",
+    "distance": 0.9,
+    "location": "Cal Poly Pomona",
+    "address": "95818 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 79",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 30",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1405,
+    "roomType": "Shared",
+    "distance": 2.9,
+    "location": "Cal Poly Pomona",
+    "address": "1200 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 63",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1063,
+    "roomType": "Private",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "719 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Laundry",
+      "Furnished",
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 5",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 706,
+    "roomType": "Shared",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "774 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 58",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 36",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1044,
+    "roomType": "Private",
+    "distance": 0.4,
+    "location": "Cal Poly Pomona",
+    "address": "2892 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Laundry",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 12",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 37",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1281,
+    "roomType": "Shared",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "78960 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 76",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 64",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 898,
+    "roomType": "Studio",
+    "distance": 1.9,
+    "location": "Cal Poly Pomona",
+    "address": "017 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry",
+      "Furnished",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 61",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 85",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1502,
+    "roomType": "Private",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "19987 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Gym",
+      "Pet Friendly",
+      "WiFi",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 89",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1281,
+    "roomType": "Shared",
+    "distance": 1.8,
+    "location": "Cal Poly Pomona",
+    "address": "337 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Furnished",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 83",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 5",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 875,
+    "roomType": "Private",
+    "distance": 2.6,
+    "location": "Cal Poly Pomona",
+    "address": "5597 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 86",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 929,
+    "roomType": "Studio",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "035 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Gym",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 17",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 35",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1122,
+    "roomType": "Shared",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "9185 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Gym",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 88",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 78",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 9",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1477,
+    "roomType": "Shared",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "195 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Gym",
+      "Laundry",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 79",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 62",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1500,
+    "roomType": "Shared",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "819 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Pet Friendly",
+      "AC",
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 67",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 98",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 57",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1308,
+    "roomType": "Shared",
+    "distance": 1.1,
+    "location": "Cal Poly Pomona",
+    "address": "3203 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Gym",
+      "Laundry",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 79",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 68",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 86",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 834,
+    "roomType": "Shared",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "44716 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Parking",
+      "Furnished",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 56",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 49",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1396,
+    "roomType": "Studio",
+    "distance": 1.4,
+    "location": "Cal Poly Pomona",
+    "address": "286 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Laundry",
+      "WiFi",
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 41",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1335,
+    "roomType": "Private",
+    "distance": 2.5,
+    "location": "Cal Poly Pomona",
+    "address": "2213 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 44",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1059,
+    "roomType": "Private",
+    "distance": 1.8,
+    "location": "Cal Poly Pomona",
+    "address": "9346 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Furnished",
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 40",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 2",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 874,
+    "roomType": "Private",
+    "distance": 1.1,
+    "location": "Cal Poly Pomona",
+    "address": "7496 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Laundry",
+      "Gym",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 11",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1155,
+    "roomType": "Private",
+    "distance": 1.8,
+    "location": "Cal Poly Pomona",
+    "address": "92067 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 47",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 982,
+    "roomType": "Studio",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "364 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Parking",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 41",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 87",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 89",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 866,
+    "roomType": "Private",
+    "distance": 1.4,
+    "location": "Cal Poly Pomona",
+    "address": "87701 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 99",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1419,
+    "roomType": "Private",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "477 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Laundry",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 46",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 38",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 12",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1426,
+    "roomType": "Shared",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "872 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 34",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 17",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 1",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1218,
+    "roomType": "Shared",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "7638 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Furnished",
+      "Pet Friendly",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 17",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 34",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 17",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1459,
+    "roomType": "Shared",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "45217 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 67",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 13",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 897,
+    "roomType": "Studio",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "8403 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 24",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 6",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 930,
+    "roomType": "Shared",
+    "distance": 1.4,
+    "location": "Cal Poly Pomona",
+    "address": "7709 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Furnished",
+      "Laundry",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 67",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 24",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1119,
+    "roomType": "Private",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "5759 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Laundry",
+      "Furnished",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 85",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 67",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1010,
+    "roomType": "Private",
+    "distance": 2.1,
+    "location": "Cal Poly Pomona",
+    "address": "349 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 83",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 18",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 78",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 969,
+    "roomType": "Private",
+    "distance": 1.7,
+    "location": "Cal Poly Pomona",
+    "address": "3534 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "AC",
+      "Laundry",
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 3",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 17",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 94",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1067,
+    "roomType": "Studio",
+    "distance": 1.4,
+    "location": "Cal Poly Pomona",
+    "address": "7269 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Gym",
+      "WiFi",
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 65",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 75",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 23",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1015,
+    "roomType": "Shared",
+    "distance": 1.5,
+    "location": "Cal Poly Pomona",
+    "address": "160 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Pet Friendly",
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 46",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 81",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1116,
+    "roomType": "Studio",
+    "distance": 2.6,
+    "location": "Cal Poly Pomona",
+    "address": "03292 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 38",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1376,
+    "roomType": "Studio",
+    "distance": 2.0,
+    "location": "Cal Poly Pomona",
+    "address": "4563 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 93",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 69",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 994,
+    "roomType": "Studio",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "521 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Laundry",
+      "Pet Friendly",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 66",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 18",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1438,
+    "roomType": "Studio",
+    "distance": 0.5,
+    "location": "Cal Poly Pomona",
+    "address": "9398 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Gym",
+      "Pet Friendly",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 88",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 34",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 84",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1159,
+    "roomType": "Shared",
+    "distance": 1.7,
+    "location": "Cal Poly Pomona",
+    "address": "6220 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "AC",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 73",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1394,
+    "roomType": "Private",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "2578 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Parking",
+      "Laundry",
+      "AC",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 71",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 40",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 17",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 853,
+    "roomType": "Private",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "07536 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 69",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 9",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 869,
+    "roomType": "Shared",
+    "distance": 1.9,
+    "location": "Cal Poly Pomona",
+    "address": "671 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "Gym",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 40",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 77",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1325,
+    "roomType": "Shared",
+    "distance": 2.5,
+    "location": "Cal Poly Pomona",
+    "address": "9729 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 58",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 84",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 29",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 782,
+    "roomType": "Shared",
+    "distance": 1.8,
+    "location": "Cal Poly Pomona",
+    "address": "209 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Laundry",
+      "Parking",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 24",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1566,
+    "roomType": "Studio",
+    "distance": 1.7,
+    "location": "Cal Poly Pomona",
+    "address": "27586 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 81",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 14",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1589,
+    "roomType": "Shared",
+    "distance": 2.5,
+    "location": "Cal Poly Pomona",
+    "address": "604 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Pet Friendly",
+      "Gym",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 24",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 30",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 81",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1302,
+    "roomType": "Private",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "1561 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 65",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 42",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1172,
+    "roomType": "Shared",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "58973 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Furnished",
+      "AC",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 20",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 42",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 12",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1408,
+    "roomType": "Shared",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "404 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "Furnished",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 48",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 38",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 41",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 922,
+    "roomType": "Shared",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "6138 North Campus Zone, Pomona, CA 91768",
+    "neighborhood": "North Campus Zone",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Laundry",
+      "AC",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 57",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 61",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1354,
+    "roomType": "Private",
+    "distance": 1.3,
+    "location": "Cal Poly Pomona",
+    "address": "157 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Gym",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 37",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 81",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 935,
+    "roomType": "Studio",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "249 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Gym",
+      "Furnished",
+      "AC",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 59",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1210,
+    "roomType": "Shared",
+    "distance": 2.3,
+    "location": "Cal Poly Pomona",
+    "address": "3538 Kellogg Dr Housing, Pomona, CA 91768",
+    "neighborhood": "Kellogg Dr Housing",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Laundry",
+      "Pet Friendly",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 2",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 96",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 94",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1432,
+    "roomType": "Private",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "430 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Laundry",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 78",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 86",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 26",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1064,
+    "roomType": "Studio",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "909 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "WiFi",
+      "Laundry",
+      "AC"
+    ],
+    "reviews": [
+      {
+        "user": "Student 73",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 805,
+    "roomType": "Shared",
+    "distance": 0.7,
+    "location": "Cal Poly Pomona",
+    "address": "5871 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Furnished",
+      "AC",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 48",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 809,
+    "roomType": "Studio",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "777 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 76",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1474,
+    "roomType": "Private",
+    "distance": 3.0,
+    "location": "Cal Poly Pomona",
+    "address": "440 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 12",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 68",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 55",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1460,
+    "roomType": "Private",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "7645 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Gym",
+      "Pet Friendly",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 83",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 63",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 26",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1403,
+    "roomType": "Shared",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "1193 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 7",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 26",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1216,
+    "roomType": "Studio",
+    "distance": 1.2,
+    "location": "Cal Poly Pomona",
+    "address": "741 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 93",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 24",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 38",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1469,
+    "roomType": "Studio",
+    "distance": 2.1,
+    "location": "Cal Poly Pomona",
+    "address": "895 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "WiFi",
+      "AC",
+      "Gym",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 97",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 50",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 26",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 943,
+    "roomType": "Private",
+    "distance": 0.5,
+    "location": "Cal Poly Pomona",
+    "address": "4755 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Laundry",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 81",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1199,
+    "roomType": "Private",
+    "distance": 2.7,
+    "location": "Cal Poly Pomona",
+    "address": "472 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Pet Friendly",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 7",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 69",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 78",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1355,
+    "roomType": "Private",
+    "distance": 0.9,
+    "location": "Cal Poly Pomona",
+    "address": "36890 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 9",
+        "rating": 4,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 43",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 92",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 836,
+    "roomType": "Shared",
+    "distance": 1.8,
+    "location": "Cal Poly Pomona",
+    "address": "66798 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 5",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 76",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1037,
+    "roomType": "Shared",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "8535 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "AC",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 13",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 86",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 64",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1131,
+    "roomType": "Shared",
+    "distance": 2.2,
+    "location": "Cal Poly Pomona",
+    "address": "281 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Pet Friendly",
+      "Gym",
+      "Furnished",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 65",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 970,
+    "roomType": "Studio",
+    "distance": 2.3,
+    "location": "Cal Poly Pomona",
+    "address": "63319 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 34",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 13",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 81",
+        "rating": 5,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1374,
+    "roomType": "Studio",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "17727 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 35",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 96",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 56",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 818,
+    "roomType": "Shared",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "509 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 28",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1014,
+    "roomType": "Studio",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "220 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Furnished",
+      "Laundry",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 35",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 999,
+    "roomType": "Private",
+    "distance": 0.6,
+    "location": "Cal Poly Pomona",
+    "address": "1599 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "AC",
+      "Gym",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 71",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 5",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 94",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1506,
+    "roomType": "Studio",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "00365 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "AC",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 73",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 748,
+    "roomType": "Shared",
+    "distance": 0.8,
+    "location": "Cal Poly Pomona",
+    "address": "5057 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Gym",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 4",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 32",
+        "rating": 5,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 92",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 863,
+    "roomType": "Private",
+    "distance": 2.4,
+    "location": "Cal Poly Pomona",
+    "address": "971 Campus South, Pomona, CA 91768",
+    "neighborhood": "Campus South",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 84",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 20",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1130,
+    "roomType": "Shared",
+    "distance": 1.6,
+    "location": "Cal Poly Pomona",
+    "address": "2122 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 21",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 59",
+        "rating": 5,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1593,
+    "roomType": "Shared",
+    "distance": 2.8,
+    "location": "Cal Poly Pomona",
+    "address": "103 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 82",
+        "rating": 4,
+        "comment": "Too expensive for what you get."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1599,
+    "roomType": "Shared",
+    "distance": 2.4,
+    "location": "Cal Poly Pomona",
+    "address": "015 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "AC",
+      "Parking",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 6",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 51",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1481,
+    "roomType": "Studio",
+    "distance": 1.0,
+    "location": "Cal Poly Pomona",
+    "address": "6975 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Pet Friendly"
+    ],
+    "reviews": [
+      {
+        "user": "Student 92",
+        "rating": 3,
+        "comment": "Too expensive for what you get."
+      },
+      {
+        "user": "Student 73",
+        "rating": 3,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 30",
+        "rating": 3,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 1447,
+    "roomType": "Private",
+    "distance": 2.5,
+    "location": "Cal Poly Pomona",
+    "address": "0337 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "Gym",
+      "Pet Friendly",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 89",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1062,
+    "roomType": "Studio",
+    "distance": 2.3,
+    "location": "Cal Poly Pomona",
+    "address": "383 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "AC",
+      "Laundry",
+      "Parking",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 8",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 966,
+    "roomType": "Studio",
+    "distance": 1.4,
+    "location": "Cal Poly Pomona",
+    "address": "44678 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 86",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      },
+      {
+        "user": "Student 27",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 82",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 735,
+    "roomType": "Private",
+    "distance": 0.3,
+    "location": "Cal Poly Pomona",
+    "address": "73982 Pomona Downtown, Pomona, CA 91768",
+    "neighborhood": "Pomona Downtown",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Furnished",
+      "Parking",
+      "Gym"
+    ],
+    "reviews": [
+      {
+        "user": "Student 36",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 77",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 37",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1440,
+    "roomType": "Shared",
+    "distance": 1.7,
+    "location": "Cal Poly Pomona",
+    "address": "9619 E. La Verne, Pomona, CA 91768",
+    "neighborhood": "E. La Verne",
+    "verified": true,
+    "amenities": [
+      "Pet Friendly",
+      "Laundry",
+      "Gym",
+      "Parking",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 42",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      },
+      {
+        "user": "Student 34",
+        "rating": 3,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1189,
+    "roomType": "Shared",
+    "distance": 1.3,
+    "location": "Cal Poly Pomona",
+    "address": "014 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Gym",
+      "WiFi",
+      "Parking"
+    ],
+    "reviews": [
+      {
+        "user": "Student 6",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 35",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Private room near Cal Poly Pomona",
+    "rent": 858,
+    "roomType": "Private",
+    "distance": 2.5,
+    "location": "Cal Poly Pomona",
+    "address": "220 Mission Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Mission Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 30",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 44",
+        "rating": 4,
+        "comment": "5 min walk to campus, great landlord."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1598,
+    "roomType": "Shared",
+    "distance": 1.3,
+    "location": "Cal Poly Pomona",
+    "address": "5767 Valley Blvd Area, Pomona, CA 91768",
+    "neighborhood": "Valley Blvd Area",
+    "verified": true,
+    "amenities": [
+      "Furnished",
+      "Laundry",
+      "WiFi"
+    ],
+    "reviews": [
+      {
+        "user": "Student 58",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      },
+      {
+        "user": "Student 40",
+        "rating": 4,
+        "comment": "Quiet neighborhood, very safe."
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Studio room near Cal Poly Pomona",
+    "rent": 1104,
+    "roomType": "Studio",
+    "distance": 0.5,
+    "location": "Cal Poly Pomona",
+    "address": "85772 Temple Ave Apartments, Pomona, CA 91768",
+    "neighborhood": "Temple Ave Apartments",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Laundry"
+    ],
+    "reviews": [
+      {
+        "user": "Student 3",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 52",
+        "rating": 5,
+        "comment": "Good for short term, but needs better maintenance."
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1578,
+    "roomType": "Shared",
+    "distance": 2.8,
+    "location": "Cal Poly Pomona",
+    "address": "2370 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 44",
+        "rating": 3,
+        "comment": "Loved it! Super close to the university and great amenities."
+      },
+      {
+        "user": "Student 39",
+        "rating": 5,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Shared room near Cal Poly Pomona",
+    "rent": 1588,
+    "roomType": "Shared",
+    "distance": 1.7,
+    "location": "Cal Poly Pomona",
+    "address": "1438 University Village, Pomona, CA 91768",
+    "neighborhood": "University Village",
+    "verified": true,
+    "amenities": [
+      "AC",
+      "Furnished"
+    ],
+    "reviews": [
+      {
+        "user": "Student 27",
+        "rating": 4,
+        "comment": "Loved it! Super close to the university and great amenities."
+      }
+    ]
+  }
+]
